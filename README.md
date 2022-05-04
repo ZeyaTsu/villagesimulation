@@ -1,2 +1,0 @@
-# villagesimulation
-A village Simulation
